@@ -1,4 +1,10 @@
-# Paytm_Payment-_Gateway_integration_on_web
+# Paytm_Payment_Gateway_integration_on_webpage
 I have integrated Paytm payment gateway on web page.
 
-Created this project on Spring Tool Suite (STS) IDE using Java ,css and Html with Spring Boot framework.
+->Designed and developed a webpage for integrating Paytm payment gateway using HTML and CSS.
+
+->Configured and integrated Paytm's payment button/API with the webpage's checkout process for secure and convenient online payments.
+
+->Conducted testing and troubleshooting to ensure seamless user experience and reliable payment processing.
+
+->Successfully implemented the project, resulting in a reliable and trustworthy payment system for online transactions.
